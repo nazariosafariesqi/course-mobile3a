@@ -1,0 +1,3 @@
+Pengenalan Widget atau tampilan yang bercabang dari android studio karena pembuatannya lebih mudah menggunakan android studio daripada flutter. pada widget juga dapat membuat satu tampilan dengan banyak tombol untuk membuat tampilan lagi yang ada didalam tombol tersebut. 
+
+Navigation digunakan untuk membuat layar tampilan lain yang berada didalam layar tersebut seperti menumpukkan tampilan baru dengan membuat tampilan lamanya masih ada di belakangnya. Penggunaanya juga ada banyak seperti java, kotlin, testing navigation, jetpack compose pada jetpack ini biasanya digunakan pada react js, native , flutter.
