@@ -3,6 +3,4 @@ Brilliandy Zufar P
 TI - 2A
 
 Rangkuman
-1. membuat layout, membuat navigation, button navigation.
-2. menggunakan flutter
-3. penjelasan project
+di pertemuan ke 3 dijelasakan cara membuat layout, lalu cara membuat navigation, button navigation. lalu disarankan untuk menggunakan flutter untuk projectnya dijelaskan juga beberapa contoh dart berjalan, menggunakan javascript,  penambahan dan pengurangan pada flutter yaitu fitur view pada java maupun kotlin terdapat Listview dan Recyleview sedangkan pada Flutter hanya bisa Listview dan juga menggunakan map untuk melakukan penambahan dijelaskan tugas project dijelaskan juga cara dalam penggabungkan api yang akan digunakan dalam mini project, flutter memiliki basis dart sebagai backend nya jadi tidak menggunakan java maupun kotlin, tetapi bisa mudah dipahami apabila pernah mencoba javascript sebelumnya dan bisa dilakukan belajar ulang karena ada beberap fitur yang tidak ada pada javascript maupun android sdk. serta ada beberapa penjelasan mengenai MVVM serta Jetpack Compose.
