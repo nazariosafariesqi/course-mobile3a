@@ -1,0 +1,12 @@
+1941720233
+Nazario Safariesqi Tyo Widjaya
+TI3A
+
+Hari ini belajar tentang navigasi yaitu interaksi yang memungkinkan pengguna melihat-lihat, masuk, dan keluar dari berbagai konten dalam aplikasi yang kita buat. Komponen Navigasi Android Jetpack membantu Anda menerapkan navigasi, mulai dari klik tombol sederhana hingga pola yang lebih kompleks, seperti bilah aplikasi dan panel samping navigasi. Komponen Navigasi juga memastikan pengalaman pengguna yang konsisten dan dapat diprediksi dengan mendasarkan pada serangkaian prinsip-prinsip yang telah ditetapkan.
+
+Komponen Navigasi terdiri dari tiga bagian utama :
+-Grafik navigasi: Sumber daya XML yang berisi semua informasi terkait navigasi di satu lokasi terpusat. Ini mencakup semua area konten individual dalam aplikasi Anda, yang disebut tujuan, serta jalur yang mungkin dilalui oleh pengguna pada aplikasi Anda.
+-NavHost: Container kosong yang menampilkan tujuan dari grafik navigasi Anda. Komponen Navigasi berisi implementasi NavHost default, NavHostFragment, yang menampilkan tujuan fragmen.
+-NavController: Objek yang mengelola navigasi aplikasi dalam sebuah NavHost. NavController mengatur pertukaran konten tujuan di NavHost saat pengguna menggunakan aplikasi Anda.
+
+Lalu penjelasan tentang pekerjaan mobile di sebuah web yang menggunakan bermacam macam bahasa dalam requirement job tersebut.
