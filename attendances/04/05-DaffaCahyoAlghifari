@@ -1,0 +1,16 @@
+NIM: 1941720104
+Nama: Daffa Cahyo Alghifari
+Kelas: TI_3A (05)
+
+Di pertemuan keempat kali ini, pelajarannya adalah tentang RecyclerView. Recycle View sendiri adalah fungsi yang memudahkan untuk menampilkan kumpulan data 
+dalam jumlah besar secara efisien. Jika seorang pemrogram menyediakan data dan menentukan tampilan setiap item, maka library RecyclerView secara dinamis 
+membuat elemen saat diperlukan. Sesuai namanya, RecyclerView mendaur ulang elemen individual tersebut.
+Berikut ciri-ciri RecyclerView:
+a. Suatu grup Tampilan untuk kontainer yang bisa digulir.
+b. Ideal untuk daftar item serupa yang panjang.
+c. Hanya menggunakan tampilan dalam jumlah terbatas yang digunakan kembali saat tampilan tersebut tidak tampak di layar. 
+   Hal ini menghemat memori dan mempercepat pembaruan item daftar saat pengguna menggulir data, karena tidak perlu membuat tampilan baru untuk setiap item yang muncul.
+d. Secara umum, RecyclerView menyimpan sebanyak mungkin tampilan item yang muat di layar, plus sedikit tambahan pada setiap akhir daftar untuk memastikan pengguliran 
+   berjalan cepat dan lancar.
+   
+Terima kasih!
