@@ -1,0 +1,14 @@
+Rangkuman materi pertemuan ke-5
+
+Pada pertemuan ini sedikit meloncat dari yang seharusnya dipaparkan,
+yaitu membahas tentang cara penggunaan flutter. Flutter dapat digunakan
+dengan device yang ringan di bandingkan dengan android studio yang memerlukan
+spec device yang tingg. Akan tetapi flutter menggunakan bahasa pemrograman yang
+berbeda dengan penggunaan android studio, sehingga kita harus mempelajari bahasa
+pemrograman baru. Pada pertemuan ini di jelaskan bagaimana cara membuat sebuah aplikasi 
+menggunakan flutter dengan contoh layout, hello world. Karna menggunakan flutter, kita tidak
+dapat menggunakan dropdown untuk mengatur layout aplikasi yang kita inginkan. Cara membuatnya harus
+manual dengan code. Dalam pembuatan widget tidak diperbolehkan terlalu banyak nested, karna 
+dikhawatirkan akan sulit untuk diproses lebih jauh nantinya. Mini project memiliki waktu kurang lebih 3 minggu
+sehingga harus dimakasimalkan sebaik mungkin. Untuk miniproject, bisa menggunakan flutter atau juga menggunakan
+android studio.
