@@ -1,0 +1,50 @@
+Pembahasan tentang install flutter dan cara membuat layout di flutter
+Langkah awal dalam membuat flutter dengan menggunakan android studio, Bahasa yang digunakan adalah dart dengan basis dari javascript lalu contoh dari penggunaan layout yaitu widget didalam widget dan lain lain.Lalu belajar tentang basic widget
+Void main(){
+runApp(const MaterialApp(
+title: ‘Tutorial’ ,
+home : Scaffold(
+	appBar: AppBar
+title: const Text(‘Hello’) ,
+),  //AppBar
+	body : Center(
+		child: Text(
+			‘Hello World!’ ,
+			textDirection: TextDirection.rtl,
+),  //Text
+))));  //Center
+}
+Run dengan mengetik perintah “flutter run”
+Standar suatu platform ada komponen , caranya adalah dibungkus dengan widget material components , setiap widget dalam flutter mempunyai nama yang berbeda beda.Scaffold digunakan untuk kebutuhan multiple return , namun secara teknis menggunakan kontainer ataupun scaffold hasilnya tetap sama.Dalam kasus satu halaman lebih baik menggunakan scaffold , kontainer lebih baik digunakan jika dalam satu halaman terbagi menjadi bentuk yang kecil – kecil. Hal yang harus diperhatikan lagi adalah mendesain aplikasi pada flutter tergolong sulit. Lalu membahas aligning dalam flutter 
+
+Void main(){
+runApp(MyApp());
+}
+class MyApp extends StatelessWidget {
+  const MyApp({Key? key}) : super(key: key);
+
+  @override
+  Widget build(BuildContext context) {
+    return MaterialApp(
+      title: 'Flutter layout demo',
+      home: Scaffold(
+        appBar: AppBar(
+          title: const Text('Flutter layout demo'),
+        ),
+        body: Row(
+  	crossAxisAlignment: CrossAxisAlignment.center,
+  	children: [
+    	Expanded(
+      	child: Image.asset('images/pic1.jpg'),
+    	),
+    	Expanded(
+      	child: Image.asset('images/pic2.jpg'),
+    	),
+    	Expanded(
+      	child: Image.asset('images/pic3.jpg'),
+    	),
+  	],
+	)
+	)
+)));
+       
