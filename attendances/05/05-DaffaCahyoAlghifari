@@ -1,0 +1,34 @@
+Nama  : Daffa Cahyo Alghifari
+Kelas : TI_3A
+NIM   : 1941720104
+Di pertemuan minggu ke-05 sekali lagi membahas tentang Flutter, yang mana dalam hal ini membuat saya ragu apakah harus mengambil jalan Java, Kotlin, atau Flutter-Dart.
+Pembahasannya adalah langkah-langkah awal instalasi Flutter.
+
+--Download Flutter--
+Download Flutter untuk Windows di halaman https://flutter.dev/docs/get-started/install/windows dan simpan dalam folder yang Anda tentukan.
+
+--Install Aplikasi Pendukung--
+File yang pertama kita install yaitu JDK (Java Development Kit), caranya :
+1. Double klik JDK Installer, lalu.
+2. klik next hingga installasi selesai.
+3. Kita dapat memilih lokasi installasi tapi sebaiknya install di lokasi default untuk mempermudah pencarian atau meminimalisir terjadinya .
+   error jika terdapat software lain yang membutuhkan jdk tersebut.
+   
+--Install Flutter--
+1. Buka ke folder tempat penyimpanan download Flutter Anda, kita asumsikan nama tempatnya adalah C:\src.
+2. Extract Flutter zip file dengan cara klik kanan pada file zip lalu pilih “extract here” sehingga struktur foldernya akan menjadi seperti ini C:\src\flutter.
+3. setelah selesai extract, selanjutnya kita ke menu search bar di pojok kiri windows lalu ketikan “ENV” lalu tekan enter.
+4. Tekan tombol Enviroment Variables di pojok kanan bawah dialog.
+5. pada table User variables for …. pilih Path lalu klik Edit (Jika tidak ada pilihan Path maka anda dapat membuat baru dengan cara memilih tombol New).
+6. Klik tombol New lalu ketikan C:\src\flutter\bin.
+7. Klik Ok.
+
+--Instalasi Flutter dengan Visual Studio Code--
+1. Buka Aplikasi Visual Studio Code.
+2. Klik menu Extension yang ada di kiri toolbar.
+3. Lalu ketikan “Flutter” dan install.
+4. Untuk mempermudah pekerjaan kita nanti ada baiknya install juga “Flutter Widgets Snippet”.
+5. Klik menu view -> Command Palette atau cara lebih mudahnya tekan tombol Ctrl+Shift+P.
+6. Lalu ketikan “Flutter” dan pilih Flutter: New Project”.
+7. Masukkan nama projeknya contoh “belajar_flutter” setelah itu tekan Enter dan pilih lokasi tempat menyimpan projek tersebut.
+8. Tekan F5 untuk menjalankan Aplikasi Flutter Pertama kita lalu pilih Emulator yang akan kita gunakan.
